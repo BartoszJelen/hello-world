@@ -16,6 +16,7 @@ These are my ideas/ projects in mind
 * more posts = more life
 * more likes = more life
 * no like = less life == die 
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 #2 Sims REAL social life
@@ -24,5 +25,6 @@ At the begining of the game, usr takes selfie and gets a character(person - male
 - If user takes more selfies, program uses ML to transform this patterns in immages ( same as face recognision).
 - If user records more videos , use ML the same way
 * characters can take appearance of the user, learn new behaviors (user based), mimic the voice
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 #3 
