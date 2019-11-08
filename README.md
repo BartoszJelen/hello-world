@@ -3,7 +3,9 @@
 I'm Software Engineering Student at Rider University. 
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 These are my ideas/ projects in mind
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 #1 Rider University Social media application:
