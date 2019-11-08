@@ -1,9 +1,9 @@
 # hello-world
 
 I'm Software Engineering Student at Rider University. 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 These are my ideas/ projects in mind
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 #1 Rider University Social media application:
 - an application that automates life in the college
 - start app. with game that will lure ppl to use this app
@@ -12,7 +12,7 @@ These are my ideas/ projects in mind
 * more posts = more life
 * more likes = more life
 * no like = less life == die 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 #2 Sims REAL social life
 ^ The sims update idea
 At the begining of the game, usr takes selfie and gets a character(person - male/female) to play with. 
